@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TerminalHositing (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TerminalHositing (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
