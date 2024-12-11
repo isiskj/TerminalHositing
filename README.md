@@ -1,1 +1,6 @@
 # TerminalHositing
+WindowsTerminalをそのままWinUIで使えるようにしました。
+これはその例です。
+テキストボックスに文字を入れて、下のボタンを押すとWindowsTerminalのほうへコピペされます。
+その他はWindowsTerminalのアプリがそのまま使えるので便利です。
+新しいタブを立ち上げたり、2画面にしたりetc.
